@@ -14,7 +14,7 @@ interface Planet {
   description: string;
 }
 
-const Home: NextPage = () => {
+const DetailsPage: NextPage = () => {
   const router = useRouter();
   const planetId = router.query.planetID;
 
@@ -57,4 +57,4 @@ const Home: NextPage = () => {
   );
 };
 
-export default Home;
+export default DetailsPage;
