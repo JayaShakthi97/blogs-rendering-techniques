@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "name": "mercury",
+    "description": "Mercury is the closest planet to the sun and the smallest planet in the solar system — it is only a little larger than Earth's moon. Mercury zips around the sun in only 88 days and because it is so close to our star (about two-fifths the distance between Earth and the sun).",
+    "image": "http://localhost:8000/images/mercury.jpeg"
+  },
+  {
+    "id": 2,
+    "name": "venus",
+    "description": "Venus is the second planet from the sun and is the hottest planet in the solar system. Its thick atmosphere is extremely toxic and composed of sulfuric acid clouds, the planet is an extreme example of the greenhouse effect.",
+    "image": "http://localhost:8000/images/venus.jpeg"
+  },
+  {
+    "id": 3,
+    "name": "earth",
+    "description": "Earth, our home planet, is the third planet from the sun. It is a water world with two-thirds of the planet covered by water. Earth's atmosphere is rich in nitrogen and oxygen and it is the only world known to harbor life.",
+    "image": "http://localhost:8000/images/earth.jpeg"
+  },
+  {
+    "id": 4,
+    "name": "mars",
+    "description": "Mars is the fourth planet from the sun. It is a cold, desert-like planet covered in iron oxide dust that gives the planet its signature red hue. Mars shares similarities with Earth: It is rocky, has mountains, valleys and canyons, and storm systems ranging from localized tornado-like dust devils to planet-engulfing dust storms.",
+    "image": "http://localhost:8000/images/mars.jpeg"
+  },
+  {
+    "id": 5,
+    "name": "jupiter",
+    "description": "Jupiter is the fifth planet from the sun and the largest planet in the solar system. The gas giant is more than twice as massive as all the other planets combined, according to NASA.",
+    "image": "http://localhost:8000/images/jupiter.jpeg"
+  },
+  {
+    "id": 6,
+    "name": "saturn",
+    "description": "Saturn is the sixth planet from the sun and is famous for its large and distinct ring system. Though Saturn is not the only planet in the solar system with rings.",
+    "image": "http://localhost:8000/images/saturn.jpeg"
+  },
+  {
+    "id": 7,
+    "name": "uranus",
+    "description": "Uranus is the seventh planet from the sun and is a bit of an oddball. It has clouds made of hydrogen sulfide, the same chemical that makes rotten eggs smell so foul. It rotates from east to west like Venus. But unlike Venus or any other planet, its equator is nearly at right angles to its orbit — it basically orbits on its side.",
+    "image": "http://localhost:8000/images/uranus.jpeg"
+  },
+  {
+    "id": 8,
+    "name": "neptune",
+    "description": "Neptune is the eighth planet from the sun and is on average the coldest planet in the solar system. The average temperature of Neptune at the top of the clouds is minus 346 degrees Fahrenheit (minus 210 degrees Celsius).",
+    "image": "http://localhost:8000/images/neptune.jpeg"
+  },
+  {
+    "id": 9,
+    "name": "pluto",
+    "description": "Pluto was once the ninth planet from the sun and is unlike any other planet in the solar system. It is smaller than Earth's moon; its orbit is highly elliptical, falling inside Neptune's orbit at some points and far beyond it at others; and Pluto's orbit doesn't fall on the same plane as all the other planets —  instead, it orbits 17.1 degrees above or below.",
+    "image": "http://localhost:8000/images/pluto.png"
+  }
+]
